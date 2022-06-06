@@ -1,6 +1,6 @@
 import React from 'react';
-import Home from './Home'  
-import Index from './Index'  
+import Home from './Home' ;
+import Index from './Index';  
 
 
 export const NavBar = () =>{
